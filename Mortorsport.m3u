@@ -1,0 +1,22 @@
+{
+  "name": "F1True",
+  "stations": [
+    {
+      "name": "Beinsport1",
+      "url": "https://love.geboh94201.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8",
+      "isLive": true,
+      "httpHeaders": {
+        "Referer": "https://168dooballth.org/",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+      },
+      {
+      "name": "RallyTV",
+      "url": "https://pushembdz.store/embed/ebbd2f95-2aae-437c-938c-46a9e1419250",
+      "isLive": true,
+      "httpHeaders": {
+        "Referer": "https://pushembdz.store//",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+      }
+    }
+  ]
+}
