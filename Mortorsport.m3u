@@ -2,7 +2,7 @@
   "name": "Mortorsport",
   "author": "wasx",
   "image": "https://nutapi.work/img/168/f1.png",
-  "url": "https://raw.githubusercontent.com/w6zbz/vxsa/refs/heads/main/Mortorsport.m3u",
+  "url": "https://raw.githubusercontent.com/w6zbz/vxsa/refs/heads/main/Mortorsport.m3u8",
   "groups": [
     {
       "name": "Mortorsport",
@@ -18,7 +18,7 @@
         {
           "name": "RallycarTV",
           "image": "https://images.daznservices.com/di/library/DAZN_News/10/96/rally-tv-logo_1v7nnxqwp0v6g1w2twu3qidty9.png?t=-917948983",
-          "url": "https://raw.githubusercontent.com/w6zbz/vxsa/refs/heads/main/rallytv.m3u",
+          "url": "https://raw.githubusercontent.com/w6zbz/vxsa/refs/heads/main/rallytv.m3u8",
           "referer": "https://pushembdz.store/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
         },
